@@ -23,7 +23,7 @@
 <!-- Prototyping -->
 <img src="./readme/title3.svg"/>
 
-> We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
+> We designed Folioverse using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 ### Wireframes
 
@@ -33,7 +33,7 @@
 
 ### Mockups
 
-| Home screen                             | Menu Screen                           | Order Screen                          |
+| Home screen                             | Character creation Screen             | Portfolio Screen                      |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
@@ -49,7 +49,7 @@
 | Login screen                              | Register screen                         | Landing screen                          | Loading screen                          |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen                               | Menu Screen                             | Order Screen                            | Checkout Screen                         |
+| Home screen                               | Character creation Screen               | Portfolio Screen                        | Checkout Screen                         |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
 ### Admin Screens (Web)
@@ -57,7 +57,7 @@
 | Login screen                            | Register screen                       | Landing screen                        |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen                             | Menu Screen                           | Order Screen                          |
+| Home screen                             | Character creation Screen             | Portfolio Screen                      |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
@@ -65,7 +65,7 @@
 <!-- Tech stack -->
 <img src="./readme/title5.svg"/>
 
-### Coffee Express is built using the following technologies:
+### Folioverse is built using the following technologies:
 
 - This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
 - For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
@@ -78,7 +78,7 @@
 <!-- How to run -->
 <img src="./readme/title6.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up Folioverse locally, follow these steps:
 
 ### Prerequisites
 
@@ -96,7 +96,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/your_username_/folio-verse.git
    ```
 3. Install NPM packages
    ```sh
@@ -107,4 +107,4 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = "ENTER YOUR API";
    ```
 
-Now, you should be able to run Coffee Express locally and explore its features.
+Now, you should be able to run Folioverse locally and explore its features.
